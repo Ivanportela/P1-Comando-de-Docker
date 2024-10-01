@@ -7,6 +7,13 @@ Facendo uso de VScode, Docker e a imaxe de ubuntu da práctica anterior, describ
 
 1. Descargar e comprobar que unha imaxe está no teu equipo
 
+**Para poder descargar e comprobar as imaxes podemos utilizar os seguintes comandos:**
+```
+docker "nome da imaxe"
+docker images
+```
+**Con estos dous comandos podemos descargar e ver todas as imaxes que xa utilizamos e tamen aparece informacion sobre estas imaxes.**
+
 2. Crear un contenedor sen nome, queda arrincado?, cómo obtés o nome?
 
 3. Crea un contenedor coo nome 'u1', cómo accedes a el?
